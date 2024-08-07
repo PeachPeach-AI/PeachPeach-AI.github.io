@@ -182,13 +182,6 @@
 
   
   <url>
-    <loc>https://e37.cn/tags/%E6%B5%8B%E8%AF%95-%E6%B5%8B%E8%AF%952/</loc>
-    <lastmod>2024-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://e37.cn/tags/tag1/</loc>
     <lastmod>2024-08-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -204,6 +197,13 @@
   
   <url>
     <loc>https://e37.cn/tags/tag3/</loc>
+    <lastmod>2024-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://e37.cn/tags/%E6%B5%8B%E8%AF%95-%E6%B5%8B%E8%AF%952/</loc>
     <lastmod>2024-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
