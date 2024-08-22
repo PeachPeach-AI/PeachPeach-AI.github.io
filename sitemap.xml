@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://e37.cn/2024/08/13/page/</loc>
+    
+    <lastmod>2024-08-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://e37.cn/actives/index.html</loc>
+    
+    <lastmod>2024-08-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://e37.cn/2022/08/16/7%E6%AD%A5%E6%90%9E%E5%AE%9A%EF%BC%8C%E9%AB%98%E8%BD%AC%E5%8C%96%EF%BC%81%E4%BF%83%E9%94%80%E5%95%86%E5%93%81%E4%B8%BB%E5%9B%BE%E5%B7%A5%E5%8D%95%E6%A8%A1%E6%9D%BF%E8%AF%A6%E8%A7%A3%20-%20%E5%89%AF%E6%9C%AC/</loc>
+    
+    <lastmod>2024-08-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://e37.cn/books/index.html</loc>
     
     <lastmod>2024-08-07</lastmod>
@@ -157,7 +184,7 @@
 
   <url>
     <loc>https://e37.cn/</loc>
-    <lastmod>2024-08-08</lastmod>
+    <lastmod>2024-08-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -165,21 +192,21 @@
   
   <url>
     <loc>https://e37.cn/tags/%E5%95%86%E5%93%81%E4%B8%BB%E5%9B%BE/</loc>
-    <lastmod>2024-08-08</lastmod>
+    <lastmod>2024-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://e37.cn/tags/%E5%BA%97%E9%93%BA%E8%A3%85%E4%BF%AE/</loc>
-    <lastmod>2024-08-08</lastmod>
+    <lastmod>2024-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://e37.cn/tags/%E4%B8%BB%E5%9B%BE%E4%BC%98%E5%8C%96/</loc>
-    <lastmod>2024-08-08</lastmod>
+    <lastmod>2024-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -188,7 +215,7 @@
   
   <url>
     <loc>https://e37.cn/categories/%E8%BF%90%E8%90%A5%E6%A1%88%E4%BE%8B/</loc>
-    <lastmod>2024-08-08</lastmod>
+    <lastmod>2024-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
